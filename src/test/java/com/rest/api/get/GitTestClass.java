@@ -8,5 +8,6 @@ public class GitTestClass
     public static void testGit()
     {
         System.out.println("Testing the Git");
+        System.out.println(" Test Passed");
     }
 }
